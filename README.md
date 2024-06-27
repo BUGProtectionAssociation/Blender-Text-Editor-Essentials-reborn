@@ -1,14 +1,18 @@
 # Blender-Text-Editor-Essentials
 This is a blender addon for adding features to improve workflow in text editor, despite the fact that there are many addons for improving features. However, the majority are either out of date (also this) or lack other features.
+
 这是一个 Blender 插件，用于添加功能以改进文本编辑器中的工作流程，尽管有许多用于改进功能的插件。但是，大多数要么已过时（虽然这个也过时了），要么缺乏其他功能。
 
 The goal of this repository is to combine and update all of the features of free addons.
+
 该存储库的目标是组合和更新免费插件的所有功能。
 
 To use just download zip and install it
+
 要使用，只需下载zip并安装它
 
 Addon is for blender3x and works on latest releases or ....not
+
 插件适用于 blender3.x，并不适用于最新版本
 
 Features:

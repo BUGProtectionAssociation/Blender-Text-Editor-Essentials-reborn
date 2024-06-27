@@ -25,4 +25,4 @@ By Mackraken and Tintwotin
 
 3.ADDON TEMPLATE GENERATOR:
 ![](https://blenderartists.org/uploads/default/original/4X/7/e/5/7e5849b913455345ef1a46f61242e489bf42462d.gif)
-By chichige-bobo, tintwotin
+By [chichige-bobo](https://github.com/chichige-bobo/), tintwotin (user has lost)

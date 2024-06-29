@@ -20,14 +20,14 @@ Features:
 1. INTELLISENSE/AUTO COMPLETE:
 ![](https://blenderartists.org/uploads/default/original/4X/8/d/5/8d5f9520b1fbc525cbd50f7ce145858749de8fd9.gif)
 Shotcut:(Ctrl + Shift + Space)
-Mackraken, tintwotin, Hydrocallis
+[Mackraken](https://github.com/Mackraken/), tintwotin(user has lost), [Hydrocallis](https://github.com/Hydrocallis/)
 
 
 
 2. THE CODE EDITOR: 
 Minimap, text tabs, whitespace markers and indent guides
 ![](https://blenderartists.org/uploads/default/original/4X/0/0/a/00a4b3bdf5d1e2dc67ce56b8f6af263f0859b86e.gif)
-By Mackraken and Tintwotin
+By [Mackraken](https://github.com/Mackraken/) and Tintwotin(user has lost)
 
 
 

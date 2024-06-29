@@ -1088,7 +1088,7 @@ def timer(func, *args, delay=0, init=False):
     if init:
         func(*args)
         return
-    bpy.app.timers.register(lambda: timer(func, *args, init=True),
+    bpy.app.timers.register(lambda: timer(func, *args, delay=0, init=True),
                             first_interval=delay)
 
 
